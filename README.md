@@ -1,16 +1,55 @@
-## Hi there 👋
+# Olá, eu sou o Victor Teixeira! 👋
 
-<!--
-**Victor-Teixeiraa/Victor-Teixeiraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Desenvolvedor de Sistemas | Analista de Dados | Automação & IA
 
-Here are some ideas to get you started:
+Sou um profissional apaixonado por tecnologia, focado em criar soluções inteligentes através de desenvolvimento de sistemas e análise de dados. Atualmente explorando o mundo da Inteligência Artificial e automação de processos em Fortaleza, Ceará.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Analysis-blue?style=for-the-badge&logo=pandas&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_&_Automation-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+---
+
+### 📊 Minhas Estatísticas no GitHub
+
+<div align="center">
+  <a href="https://github.com/Victor-Teixeiraa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victor-Teixeiraa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Teixeiraa&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Victor-Teixeiraa&theme=dracula&hide_border=true" />
+</div>
+
+---
+
+### 🎯 Foco Atual
+
+* 🔭 Trabalhando em projetos de **Automação com IA**.
+* 📚 Aprofundando conhecimentos em **Análise de Dados**.
+* 💡 Criando soluções práticas em **JavaScript e Python**.
+
+<div align="left">
+  <a href="https://instagram.com/vicctortx" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:seuemail@exemplo.com">
+    <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" target="_blank">
+  </a>
+</div>
