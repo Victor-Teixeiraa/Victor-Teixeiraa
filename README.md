@@ -41,7 +41,7 @@ Sou um profissional apaixonado por tecnologia, focado em criar soluções inteli
 * 💡 Criando soluções práticas em **Java, JavaScript e Python**.
 
 <div align="left">
-  <a href="https://instagram.com/vicctortx" target="_blank">
+  <a href="https://instagram.com/vicctortxr" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white" target="_blank">
   </a>
   <a href="mailto: victordaniel058@gmail.com">
