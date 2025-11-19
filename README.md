@@ -15,6 +15,8 @@ Sou um profissional apaixonado por tecnologia, focado em criar soluções inteli
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-FF5470?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FFB800?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </div>
 
 ---
